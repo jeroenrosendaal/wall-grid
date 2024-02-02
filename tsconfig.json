@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "es2020",
+      "moduleResolution": "node",
+      "baseUrl": "./",
+      "allowJs": true,
+      "noEmitOnError": false,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "alwaysStrict": false,
+      "strictNullChecks": false,
+      "strict": false,                // Enable strict type-checking options
+      "skipLibCheck": true,           // Skip type checking of declaration files
+      "noImplicitAny": false          // Bypass raising errors on `any` type
+    },
+}
+  
